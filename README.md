@@ -1,4 +1,5 @@
 ### Wassup 👋
+You can call me Rio!
 
 Currently pursuing my computer science degree 
 
