@@ -4,7 +4,7 @@ You can call me Rio!
 Currently pursuing my computer science degree 
 
 - 👀 My interest is web development 😁
-- 👨‍💻 Currently mastering MERN Stack, Docker and Microservice Architecture 
+- 👨‍💻 Currently learning MERN Stack, Docker and Microservice Architecture 
 - 😄 Pronouns: he/Him
 - https://rifqio.github.io/profile/
 ## 🖥 Technologies That I'm Using 🤖
@@ -20,6 +20,6 @@ Currently pursuing my computer science degree
 <img src="https://img.shields.io/badge/mongodb-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifqio&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
