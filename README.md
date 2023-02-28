@@ -21,5 +21,7 @@ Currently pursuing my computer science degree
 <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifqio&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
