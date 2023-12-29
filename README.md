@@ -6,7 +6,6 @@ Currently pursuing my computer science degree
 - 👀 My interest is web development 😁
 - 👨‍💻 Currently learning MERN Stack, Docker and Microservice Architecture 
 - 😄 Pronouns: he/Him
-- https://rifqio.github.io/profile/
 ## 🖥 Technologies That I'm Using 🤖
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
